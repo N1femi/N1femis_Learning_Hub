@@ -2,7 +2,7 @@
 name: Topic Request
 description: Request a topic for me to explore!
 
-title: "TOPIC REQUEST: "
+title: "TOPIC REQUEST: topic_here"
 labels: ["topic-request"]
 
 body: 
