@@ -1,2 +1,2 @@
-# N1femis_Learning_Hub
-Documenting my journey of growing knowledge in CS starting from basic DSA to whatever comes next...
+# Welcome to N1femi's Learning Hub 🎉
+## A hub of learning where anyone can contribute and learn with me on my CS journey 🔥
