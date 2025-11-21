@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms
-name: Test Template
-description: A testy template to test a template intended for testing a template test
+name: Topic Request
+description: Request a topic for me to explore!
 
 title: "TOPIC REQUEST: "
 labels: ["topic-request"]
@@ -12,9 +12,10 @@ body:
         - Data Structures/Algorithms 📔
         - Software Development 👨🏾‍💻
         - AI/ML 🤖
-      multiple: true
       label: Relevance
       description: What category is your request most closely associated with?
+    validations:
+      required: true
 
     
     
