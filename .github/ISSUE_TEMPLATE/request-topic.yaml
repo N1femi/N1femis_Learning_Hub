@@ -4,6 +4,7 @@ description: Request a topic for me to explore!
 
 title: "TOPIC REQUEST: topic_name"
 labels: ["topic-request"]
+assignees: ["N1femi"]
 
 body: 
   - type: dropdown
