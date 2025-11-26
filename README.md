@@ -15,4 +15,4 @@ The main goal of this repository is to document myself learning different topics
 - I'm looking to make this repo more interactive and more like an actual hub where everyone can show their progress
 - More content (obviously)
 - A bot for automating manual tasks
-- A process for working on projects together
+- A more streamlined process in contributing
