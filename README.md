@@ -16,3 +16,4 @@ The main goal of this repository is to document myself learning different topics
 - More content (obviously)
 - A bot for automating manual tasks
 - A more streamlined process in contributing
+- An Issue system for people to ask questions
